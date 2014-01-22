@@ -11,7 +11,6 @@ def line_types lines
 		end
 	end
 	final_array
-
 end
 
 p line_types ["I'm Alpha", "No idea", "beta tester", nil]
